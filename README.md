@@ -4,17 +4,18 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**1** problems solved on [Xom Data](https://xomdata.com/practice).
+**2** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 0 | 1 | 0 | 0 | 1 |
+| SQL | 0 | 2 | 0 | 0 | 2 |
 
 **Recently solved**
 
+- [medium-subquery-103](https://xomdata.com/practice/medium-subquery-103) · Medium · 2026-08-23
 - [medium-union-175](https://xomdata.com/practice/medium-union-175) · Medium · 2026-08-22
 
-_Synced 1 solutions · last update 2026-08-22_
+_Synced 2 solutions · last update 2026-08-23_
 
 <!-- xomdata:stats:end -->
 
