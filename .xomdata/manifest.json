@@ -2,5 +2,6 @@
   "practice/sql/medium/medium-union-175/solution.sql": "34b24e999c22f52ffceb992eb8bf526d5b676d6b15f7d6901a10784064018783",
   "practice/sql/medium/medium-subquery-103/solution.sql": "c6c194daf597b25fb7c0491017c5b87dc4aa09abcb64123204c66d2323751c61",
   "practice/sql/medium/medium-subquery-110/solution.sql": "deef98c44a0021c05e11aed714d27df73ea29456e99465ef3b9efae9580d0c63",
-  "practice/sql/medium/medium-subquery-160/solution.sql": "eb508bc7f0f64a82acf482946b1771a4b93bfc7bcf97f4127333e6bdfd7c27d1"
+  "practice/sql/medium/medium-subquery-160/solution.sql": "eb508bc7f0f64a82acf482946b1771a4b93bfc7bcf97f4127333e6bdfd7c27d1",
+  "practice/sql/hard/hard-pivot-001/solution.sql": "e47d7c05a624cc0a8a51bc3537fdc542e016cda128d472aa91e89198d80c1475"
 }
