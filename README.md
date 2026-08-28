@@ -4,21 +4,22 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**5** problems solved on [Xom Data](https://xomdata.com/practice).
+**6** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 0 | 4 | 1 | 0 | 5 |
+| SQL | 1 | 4 | 1 | 0 | 6 |
 
 **Recently solved**
 
+- [easy-select-001](https://xomdata.com/practice/easy-select-001) · Easy · 2026-08-28
 - [hard-pivot-001](https://xomdata.com/practice/hard-pivot-001) · Hard · 2026-08-24
 - [medium-subquery-160](https://xomdata.com/practice/medium-subquery-160) · Medium · 2026-08-24
 - [medium-subquery-110](https://xomdata.com/practice/medium-subquery-110) · Medium · 2026-08-23
 - [medium-subquery-103](https://xomdata.com/practice/medium-subquery-103) · Medium · 2026-08-23
 - [medium-union-175](https://xomdata.com/practice/medium-union-175) · Medium · 2026-08-22
 
-_Synced 5 solutions · last update 2026-08-24_
+_Synced 6 solutions · last update 2026-08-28_
 
 <!-- xomdata:stats:end -->
 
