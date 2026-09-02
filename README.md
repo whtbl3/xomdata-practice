@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**29** problems solved on [Xom Data](https://xomdata.com/practice).
+**39** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 20 | 0 | 0 | 0 | 20 |
+| Python | 30 | 0 | 0 | 0 | 30 |
 | SQL | 4 | 4 | 1 | 0 | 9 |
 
 **Recently solved**
 
-- [pd-text-to-number](https://xomdata.com/practice/pd-text-to-number) · Easy · 2026-09-02
-- [pd-round-column](https://xomdata.com/practice/pd-round-column) · Easy · 2026-09-02
-- [pd-flag-threshold](https://xomdata.com/practice/pd-flag-threshold) · Easy · 2026-09-02
-- [pd-map-labels](https://xomdata.com/practice/pd-map-labels) · Easy · 2026-09-02
-- [pd-revenue-column](https://xomdata.com/practice/pd-revenue-column) · Easy · 2026-09-02
-- [pd-clean-text](https://xomdata.com/practice/pd-clean-text) · Easy · 2026-09-02
-- [pd-keep-latest](https://xomdata.com/practice/pd-keep-latest) · Easy · 2026-09-02
-- [pd-drop-missing-rows](https://xomdata.com/practice/pd-drop-missing-rows) · Easy · 2026-09-02
-- [pd-fill-missing](https://xomdata.com/practice/pd-fill-missing) · Easy · 2026-09-02
-- [pd-missing-count](https://xomdata.com/practice/pd-missing-count) · Easy · 2026-09-02
+- [pd-report-table](https://xomdata.com/practice/pd-report-table) · Easy · 2026-09-02
+- [pd-filter-date-range](https://xomdata.com/practice/pd-filter-date-range) · Easy · 2026-09-02
+- [pd-month-column](https://xomdata.com/practice/pd-month-column) · Easy · 2026-09-02
+- [pd-concat-months](https://xomdata.com/practice/pd-concat-months) · Easy · 2026-09-02
+- [pd-merge-lookup](https://xomdata.com/practice/pd-merge-lookup) · Easy · 2026-09-02
+- [pd-group-agg-table](https://xomdata.com/practice/pd-group-agg-table) · Easy · 2026-09-02
+- [pd-top-group](https://xomdata.com/practice/pd-top-group) · Easy · 2026-09-02
+- [pd-group-count](https://xomdata.com/practice/pd-group-count) · Easy · 2026-09-02
+- [pd-group-mean-round](https://xomdata.com/practice/pd-group-mean-round) · Easy · 2026-09-02
+- [pd-group-sum](https://xomdata.com/practice/pd-group-sum) · Easy · 2026-09-02
 
-_Synced 29 solutions · last update 2026-09-02_
+_Synced 39 solutions · last update 2026-09-02_
 
 <!-- xomdata:stats:end -->
 
