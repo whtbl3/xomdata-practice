@@ -13,5 +13,8 @@
   "practice/python/easy/pd-pick-columns/solution.py": "4c14ad5c6c420b412111347a98af4b09d60c23c4fe3a6b995606b0f54b5ac7b7",
   "practice/python/easy/pd-rename-columns/solution.py": "192809323199af16aa32063436b7d8a308352a691fff72cdcafe96a89d43b884",
   "practice/python/easy/pd-drop-column/solution.py": "28c044c16516abeb79de3cae7c40937aa955831d3d963f12fd8d667415d6501e",
-  "practice/python/easy/pd-filter-threshold/solution.py": "52a5aa91e899b790c224cab46173fb254161a1c6ca527285f35f6d8851a5441f"
+  "practice/python/easy/pd-filter-threshold/solution.py": "52a5aa91e899b790c224cab46173fb254161a1c6ca527285f35f6d8851a5441f",
+  "practice/python/easy/pd-filter-two-conditions/solution.py": "73417cd936f2da5d6f9235af3add72cb94c88533e1364ceccd5b401a72fa44ee",
+  "practice/python/easy/pd-filter-isin/solution.py": "b74d37f06324d4da0c01ef93f82b3a8d61ddda375a87cb23922d538aa70b652b",
+  "practice/python/easy/pd-sort-top-n/solution.py": "ac636b41cf56fc5e3d262e1e9d7af1003b773b457ab194c2fb34ae04e88b7f23"
 }
