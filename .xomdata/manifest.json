@@ -4,5 +4,10 @@
   "practice/sql/medium/medium-subquery-110/solution.sql": "deef98c44a0021c05e11aed714d27df73ea29456e99465ef3b9efae9580d0c63",
   "practice/sql/medium/medium-subquery-160/solution.sql": "eb508bc7f0f64a82acf482946b1771a4b93bfc7bcf97f4127333e6bdfd7c27d1",
   "practice/sql/hard/hard-pivot-001/solution.sql": "e47d7c05a624cc0a8a51bc3537fdc542e016cda128d472aa91e89198d80c1475",
-  "practice/sql/easy/easy-select-001/solution.sql": "9a02274aadaa101896bdf10bd5e6022a1b509504c9a3b86b7956ecd24d2eabf0"
+  "practice/sql/easy/easy-select-001/solution.sql": "9a02274aadaa101896bdf10bd5e6022a1b509504c9a3b86b7956ecd24d2eabf0",
+  "practice/sql/easy/easy-select-002/solution.sql": "9ffdd2f052487f84e68986c602037c6faba09fd623833b2e8e7082f8bd2348e3",
+  "practice/sql/easy/easy-select-005/solution.sql": "6a0bfb97613a30a5c3ba0dbc810608790cc403324eb4e087bf71c72fb24fffce",
+  "practice/sql/easy/easy-where-001/solution.sql": "4e42d32444d9cac578b45eed0246f504fff3ed5e25dddea97e89ff5091041525",
+  "practice/python/easy/pd-table-size/solution.py": "dac0403589c7b4c2cd36c054842292a905a79ec4a09ce9b794a059713154006f",
+  "practice/python/easy/pd-first-rows/solution.py": "a92bb90d8f52eb2ed3e1e3fab3a28ddc3c9c89629cd9b37c2e7c276cae42420d"
 }
