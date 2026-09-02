@@ -9,5 +9,6 @@
   "practice/sql/easy/easy-select-005/solution.sql": "6a0bfb97613a30a5c3ba0dbc810608790cc403324eb4e087bf71c72fb24fffce",
   "practice/sql/easy/easy-where-001/solution.sql": "4e42d32444d9cac578b45eed0246f504fff3ed5e25dddea97e89ff5091041525",
   "practice/python/easy/pd-table-size/solution.py": "dac0403589c7b4c2cd36c054842292a905a79ec4a09ce9b794a059713154006f",
-  "practice/python/easy/pd-first-rows/solution.py": "a92bb90d8f52eb2ed3e1e3fab3a28ddc3c9c89629cd9b37c2e7c276cae42420d"
+  "practice/python/easy/pd-first-rows/solution.py": "a92bb90d8f52eb2ed3e1e3fab3a28ddc3c9c89629cd9b37c2e7c276cae42420d",
+  "practice/python/easy/pd-pick-columns/solution.py": "4c14ad5c6c420b412111347a98af4b09d60c23c4fe3a6b995606b0f54b5ac7b7"
 }
