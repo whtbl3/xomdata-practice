@@ -24,5 +24,8 @@
   "practice/python/easy/pd-keep-latest/solution.py": "563651938d1a7137e10df912a983ae22b63e1947e87a951a5a9d1fb17193e7c0",
   "practice/python/easy/pd-clean-text/solution.py": "dbc8b74191ef057e514f3315c4303b35beec4b43a2797d93db84f01c4cea12ba",
   "practice/python/easy/pd-revenue-column/solution.py": "6793dd1ae5ab9ed972edba4855d4bf4b2a84853aeb0532cec85418f7cecba512",
-  "practice/python/easy/pd-map-labels/solution.py": "7e0b6e64c1b626647a8e1a222b86fbd883e9e402a9f733b59d71540465126933"
+  "practice/python/easy/pd-map-labels/solution.py": "7e0b6e64c1b626647a8e1a222b86fbd883e9e402a9f733b59d71540465126933",
+  "practice/python/easy/pd-flag-threshold/solution.py": "23db6f601856ac62e58afa423edccce0eeb088b73731bb13304d22d979166e02",
+  "practice/python/easy/pd-round-column/solution.py": "0a20ddcb38417fe08ac901c5ac071321e7dfa8566ea90244301915ddeaf25156",
+  "practice/python/easy/pd-text-to-number/solution.py": "4a9c712de926f43714c53c73536a14d43109385e3835cc3ead6148aba808a170"
 }
