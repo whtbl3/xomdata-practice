@@ -38,5 +38,8 @@
   "practice/python/easy/pd-month-column/solution.py": "1e590b1a5953f29a972e5fa75b3fcbc1233b212f34762f0489ca3fc23d2a49fe",
   "practice/python/easy/pd-filter-date-range/solution.py": "a17529556d24dba97e3a15a09e3d6d00679278f51f394eba6af6ba6700c986d2",
   "practice/python/easy/pd-report-table/solution.py": "6799f8b370be0654fbd2676203fec714382811d402b6745e65e67eb03d4e7f53",
-  "practice/sql/easy/easy-isnull-002/solution.sql": "9366732bc5d417845603a4cdb97e77b1fc036886406df1e53122ea7250781601"
+  "practice/sql/easy/easy-isnull-002/solution.sql": "9366732bc5d417845603a4cdb97e77b1fc036886406df1e53122ea7250781601",
+  "practice/sql/easy/easy-like-001/solution.sql": "edd8a31ae33339f978e0f1ebdef57b26fae04558c10915a00a95ddefc08e3fde",
+  "practice/sql/easy/easy-orderby-001/solution.sql": "2256bb937131620fc4f1ba3cb860c46788ed55eb95de51ae7fd456b5ab13d30f",
+  "practice/sql/easy/easy-limit-002/solution.sql": "f45778abf09d3d175f7b0569c1f75143d9c855fabb9dcf9b511dc3b150955cb1"
 }

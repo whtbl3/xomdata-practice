@@ -4,15 +4,18 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**40** problems solved on [Xom Data](https://xomdata.com/practice).
+**43** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 30 | 0 | 0 | 0 | 30 |
-| SQL | 5 | 4 | 1 | 0 | 10 |
+| SQL | 8 | 4 | 1 | 0 | 13 |
 
 **Recently solved**
 
+- [easy-limit-002](https://xomdata.com/practice/easy-limit-002) · Easy · 2026-09-05
+- [easy-orderby-001](https://xomdata.com/practice/easy-orderby-001) · Easy · 2026-09-05
+- [easy-like-001](https://xomdata.com/practice/easy-like-001) · Easy · 2026-09-05
 - [easy-isnull-002](https://xomdata.com/practice/easy-isnull-002) · Easy · 2026-09-05
 - [pd-report-table](https://xomdata.com/practice/pd-report-table) · Easy · 2026-09-02
 - [pd-filter-date-range](https://xomdata.com/practice/pd-filter-date-range) · Easy · 2026-09-02
@@ -20,11 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [pd-concat-months](https://xomdata.com/practice/pd-concat-months) · Easy · 2026-09-02
 - [pd-merge-lookup](https://xomdata.com/practice/pd-merge-lookup) · Easy · 2026-09-02
 - [pd-group-agg-table](https://xomdata.com/practice/pd-group-agg-table) · Easy · 2026-09-02
-- [pd-top-group](https://xomdata.com/practice/pd-top-group) · Easy · 2026-09-02
-- [pd-group-count](https://xomdata.com/practice/pd-group-count) · Easy · 2026-09-02
-- [pd-group-mean-round](https://xomdata.com/practice/pd-group-mean-round) · Easy · 2026-09-02
 
-_Synced 40 solutions · last update 2026-09-05_
+_Synced 43 solutions · last update 2026-09-05_
 
 <!-- xomdata:stats:end -->
 
