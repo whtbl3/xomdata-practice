@@ -37,5 +37,6 @@
   "practice/python/easy/pd-concat-months/solution.py": "9a71ab3ccc966aa8120c8d641156599477575f65577b5487ed3190866a8b96bc",
   "practice/python/easy/pd-month-column/solution.py": "1e590b1a5953f29a972e5fa75b3fcbc1233b212f34762f0489ca3fc23d2a49fe",
   "practice/python/easy/pd-filter-date-range/solution.py": "a17529556d24dba97e3a15a09e3d6d00679278f51f394eba6af6ba6700c986d2",
-  "practice/python/easy/pd-report-table/solution.py": "6799f8b370be0654fbd2676203fec714382811d402b6745e65e67eb03d4e7f53"
+  "practice/python/easy/pd-report-table/solution.py": "6799f8b370be0654fbd2676203fec714382811d402b6745e65e67eb03d4e7f53",
+  "practice/sql/easy/easy-isnull-002/solution.sql": "9366732bc5d417845603a4cdb97e77b1fc036886406df1e53122ea7250781601"
 }
