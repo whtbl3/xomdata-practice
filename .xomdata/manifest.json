@@ -47,5 +47,7 @@
   "practice/sql/easy/easy-sum-001/solution.sql": "1bed795d7c687ad50088afa2b130509bde0238b788d431e8114b2ce2ffe69456",
   "practice/sql/easy/easy-avg-001/solution.sql": "bd6e8a00d4c7b4759b567566b3595e9c06ca0b91ed42803c40b9921774738b8a",
   "practice/sql/medium/medium-join-001/solution.sql": "a6c2297ad1980ebe8e48b4b2f249376cbb2367d953f71c7487d1c08f03bc307b",
-  "practice/sql/medium/medium-leftjoin-031/solution.sql": "b6767678ad172070d620a35ccb5fb2acc0c05c332f8fc9842fbb73e280062865"
+  "practice/sql/medium/medium-leftjoin-031/solution.sql": "b6767678ad172070d620a35ccb5fb2acc0c05c332f8fc9842fbb73e280062865",
+  "practice/sql/medium/medium-groupby-027/solution.sql": "0757bfb807c073b3b5216b98de5da22abc589fcaa1c767441c407b31dfb29d3c",
+  "practice/sql/medium/medium-having-019/solution.sql": "e21a1da55188c739fc60052264b442d83d92dd8612b9953be14565065011e43a"
 }
