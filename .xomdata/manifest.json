@@ -53,5 +53,7 @@
   "practice/sql/medium/medium-case-124/solution.sql": "b1ed63583153b04b0a46e914b69dd671f51024f7152da691a5ec82fdb506da72",
   "practice/sql/medium/medium-coalesce-040/solution.sql": "3f7878db9d52f0f706b2070b3e9bb7754d15f144ad163a1bcadcd363d304c82d",
   "practice/sql/hard/hard-topn-001/solution.sql": "87c6e8f23c306ebb936c5c205f446d43a745f08141738b1aee0b5020b866c8b0",
-  "practice/sql/hard/hard-frame-001/solution.sql": "e962183a03ee28d21a766b92e72a63dee0a63d5ba2a161dd03d4962e3a632b94"
+  "practice/sql/hard/hard-frame-001/solution.sql": "e962183a03ee28d21a766b92e72a63dee0a63d5ba2a161dd03d4962e3a632b94",
+  "practice/sql/hard/hard-percentile-001/solution.sql": "6531eec8003ca3d3a56709360b2430eb7240265c6e2c0b68a26c8c25730051e7",
+  "practice/sql/hard/hard-recursive-001/solution.sql": "dff7d19b285d07892baa9d408ec8d94ab2876054ad7b39b349db687b6f1d74ae"
 }
