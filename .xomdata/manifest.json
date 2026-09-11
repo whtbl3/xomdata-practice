@@ -56,5 +56,6 @@
   "practice/sql/hard/hard-frame-001/solution.sql": "e962183a03ee28d21a766b92e72a63dee0a63d5ba2a161dd03d4962e3a632b94",
   "practice/sql/hard/hard-percentile-001/solution.sql": "6531eec8003ca3d3a56709360b2430eb7240265c6e2c0b68a26c8c25730051e7",
   "practice/sql/hard/hard-recursive-001/solution.sql": "dff7d19b285d07892baa9d408ec8d94ab2876054ad7b39b349db687b6f1d74ae",
-  "practice/sql/hard/hard-yoy-001/solution.sql": "023bd34440c5a5d598e929a375e5f155dadc61b4437ee4093bdded9cf5d63222"
+  "practice/sql/hard/hard-yoy-001/solution.sql": "023bd34440c5a5d598e929a375e5f155dadc61b4437ee4093bdded9cf5d63222",
+  "practice/sql/medium/medium-datefunction-045/solution.sql": "ac3f9103cd9254895af9cee7d4a6d9098f6345a0e829e8a2efd151f1663f24a8"
 }
