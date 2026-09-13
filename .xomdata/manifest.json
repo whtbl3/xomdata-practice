@@ -61,5 +61,6 @@
   "practice/sql/hard/hard-cohort-001/solution.sql": "1d70a4ca736efe001321a28726bbbfbaa2d0edb1f0099474624916bb17e50017",
   "practice/sql/hard/hard-gapfill-001/solution.sql": "94f9f613467448594b1fde9282862f7ed830e284422f9ebb63025c4cccc60b26",
   "practice/sql/medium/medium-agg-127/solution.sql": "7d3ff300eb95c607fda82e07f8c0f98df208f7c768075c65d83e71f4938f1983",
-  "practice/sql/hard/hard-session-001/solution.sql": "32d9e81dc7249655895c9d51ed3abfeed5f5eec9957e058e9d35cbf2c86bc0ea"
+  "practice/sql/hard/hard-session-001/solution.sql": "32d9e81dc7249655895c9d51ed3abfeed5f5eec9957e058e9d35cbf2c86bc0ea",
+  "practice/sql/hard/hard-multicte-001/solution.sql": "62b99fc42145f0c99b674060902cdc80be37cd7260b9bfa3cb9ce151352e94a6"
 }
