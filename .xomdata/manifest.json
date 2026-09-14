@@ -65,5 +65,6 @@
   "practice/sql/hard/hard-multicte-001/solution.sql": "62b99fc42145f0c99b674060902cdc80be37cd7260b9bfa3cb9ce151352e94a6",
   "practice/sql/hard/hard-retention-001/solution.sql": "8465714ec4bee4ceb79d60bf2f1ac0df2fe618095cbd26a6e2218217e859b9ac",
   "practice/sql/hard/hard-anomaly-001/solution.sql": "b9835efaea26ff8ac0f63d87c8db52d3a588c361cc1d69efb932c0e2ec40e5d0",
-  "practice/sql/hard/hard-pathanalysis-001/solution.sql": "c346cb70a3e8057a5f2bb47c0f26903639b31b7fad4e12adb87c32b9bd296aca"
+  "practice/sql/hard/hard-pathanalysis-001/solution.sql": "c346cb70a3e8057a5f2bb47c0f26903639b31b7fad4e12adb87c32b9bd296aca",
+  "practice/sql/hard/hard-hierarchical-001/solution.sql": "8fc6e287025a02a005ca7fd7c6306dbb9dd33809a45132f09cac1322de03e6ce"
 }

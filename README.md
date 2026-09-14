@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**67** problems solved on [Xom Data](https://xomdata.com/practice).
+**68** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 30 | 0 | 0 | 0 | 30 |
-| SQL | 12 | 12 | 13 | 0 | 37 |
+| SQL | 12 | 12 | 14 | 0 | 38 |
 
 **Recently solved**
 
+- [hard-hierarchical-001](https://xomdata.com/practice/hard-hierarchical-001) · Hard · 2026-09-14
 - [hard-pathanalysis-001](https://xomdata.com/practice/hard-pathanalysis-001) · Hard · 2026-09-14
 - [hard-anomaly-001](https://xomdata.com/practice/hard-anomaly-001) · Hard · 2026-09-14
 - [hard-retention-001](https://xomdata.com/practice/hard-retention-001) · Hard · 2026-09-14
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [hard-gapfill-001](https://xomdata.com/practice/hard-gapfill-001) · Hard · 2026-09-13
 - [hard-cohort-001](https://xomdata.com/practice/hard-cohort-001) · Hard · 2026-09-12
 - [medium-datefunction-045](https://xomdata.com/practice/medium-datefunction-045) · Medium · 2026-09-11
-- [hard-yoy-001](https://xomdata.com/practice/hard-yoy-001) · Hard · 2026-09-11
 
-_Synced 67 solutions · last update 2026-09-14_
+_Synced 68 solutions · last update 2026-09-14_
 
 <!-- xomdata:stats:end -->
 
