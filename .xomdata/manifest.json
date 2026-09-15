@@ -68,5 +68,6 @@
   "practice/sql/hard/hard-pathanalysis-001/solution.sql": "c346cb70a3e8057a5f2bb47c0f26903639b31b7fad4e12adb87c32b9bd296aca",
   "practice/sql/hard/hard-hierarchical-001/solution.sql": "8fc6e287025a02a005ca7fd7c6306dbb9dd33809a45132f09cac1322de03e6ce",
   "practice/sql/easy/easy-limit-001/solution.sql": "50b5c5950dc1f339fb728d22705eb40a8a03a3d792889c9f93acca1341d9cdb6",
-  "practice/sql/easy/easy-limit-004/solution.sql": "b000bfc1dd83d61c8c6e178fb834b5114b2a3f07e2a47668ff434445b64e6147"
+  "practice/sql/easy/easy-limit-004/solution.sql": "b000bfc1dd83d61c8c6e178fb834b5114b2a3f07e2a47668ff434445b64e6147",
+  "practice/sql/hard/hard-anti-001/solution.sql": "1a95d30f7226eb77606cf71e1817d88c3259907acab4fcd0214db551e30ad82b"
 }
