@@ -71,5 +71,6 @@
   "practice/sql/easy/easy-limit-004/solution.sql": "b000bfc1dd83d61c8c6e178fb834b5114b2a3f07e2a47668ff434445b64e6147",
   "practice/sql/hard/hard-anti-001/solution.sql": "1a95d30f7226eb77606cf71e1817d88c3259907acab4fcd0214db551e30ad82b",
   "practice/sql/hard/hard-conditional-001/solution.sql": "d3b05be153199856311afcba7c610fbe53186cf927ab04825727f3d779b562a2",
-  "practice/sql/hard/hard-funnel-001/solution.sql": "70e1113f0e57cb1fa2569c369ed6339ab8de44b71df4021f23aaf580b6bc976c"
+  "practice/sql/hard/hard-funnel-001/solution.sql": "70e1113f0e57cb1fa2569c369ed6339ab8de44b71df4021f23aaf580b6bc976c",
+  "practice/sql/hard/hard-churn-001/solution.sql": "75483b83083e5c3d1bb2c3c660fda7d7c06c405b9bc90e564bef84ed8538a248"
 }
