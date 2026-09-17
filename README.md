@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**74** problems solved on [Xom Data](https://xomdata.com/practice).
+**75** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 30 | 0 | 0 | 0 | 30 |
-| SQL | 14 | 12 | 18 | 0 | 44 |
+| SQL | 14 | 12 | 19 | 0 | 45 |
 
 **Recently solved**
 
+- [medium-repeat-004](https://xomdata.com/practice/medium-repeat-004) · Hard · 2026-09-17
 - [hard-churn-001](https://xomdata.com/practice/hard-churn-001) · Hard · 2026-09-16
 - [hard-funnel-001](https://xomdata.com/practice/hard-funnel-001) · Hard · 2026-09-16
 - [hard-conditional-001](https://xomdata.com/practice/hard-conditional-001) · Hard · 2026-09-16
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [hard-hierarchical-001](https://xomdata.com/practice/hard-hierarchical-001) · Hard · 2026-09-14
 - [hard-pathanalysis-001](https://xomdata.com/practice/hard-pathanalysis-001) · Hard · 2026-09-14
 - [hard-anomaly-001](https://xomdata.com/practice/hard-anomaly-001) · Hard · 2026-09-14
-- [hard-retention-001](https://xomdata.com/practice/hard-retention-001) · Hard · 2026-09-14
 
-_Synced 74 solutions · last update 2026-09-16_
+_Synced 75 solutions · last update 2026-09-17_
 
 <!-- xomdata:stats:end -->
 
