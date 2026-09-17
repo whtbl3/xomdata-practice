@@ -1,4 +1,4 @@
--- Xom Data · Chốt được đơn thứ hai trong một tháng
+-- Xom Data · Closing a second order within a month
 -- Problem: https://xomdata.com/practice/medium-repeat-004
 -- Solved: 2026-09-17
 
