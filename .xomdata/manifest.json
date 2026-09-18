@@ -74,5 +74,6 @@
   "practice/sql/hard/hard-funnel-001/solution.sql": "70e1113f0e57cb1fa2569c369ed6339ab8de44b71df4021f23aaf580b6bc976c",
   "practice/sql/hard/hard-churn-001/solution.sql": "75483b83083e5c3d1bb2c3c660fda7d7c06c405b9bc90e564bef84ed8538a248",
   "practice/sql/hard/medium-repeat-004/solution.sql": "6e21b954a6100cb270e8025765dd7c2306f7234b930617a3c6530bad61cc2180",
-  "practice/sql/medium/medium-case-110/solution.sql": "79ab3853fd8754d6dddb41796ff6c5eb8c0bb9a30b459274b83dd521421c1728"
+  "practice/sql/medium/medium-case-110/solution.sql": "79ab3853fd8754d6dddb41796ff6c5eb8c0bb9a30b459274b83dd521421c1728",
+  "practice/sql/medium/medium-case-160/solution.sql": "ed67b890fd17c2339c5f6cf29217a6b4e9ea52acde826f672d5fe2a884e499e1"
 }
