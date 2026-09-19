@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**78** problems solved on [Xom Data](https://xomdata.com/practice).
+**79** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 30 | 0 | 0 | 0 | 30 |
-| SQL | 14 | 15 | 19 | 0 | 48 |
+| SQL | 14 | 16 | 19 | 0 | 49 |
 
 **Recently solved**
 
+- [medium-join-076](https://xomdata.com/practice/medium-join-076) · Medium · 2026-09-19
 - [medium-having-128](https://xomdata.com/practice/medium-having-128) · Medium · 2026-09-18
 - [medium-case-160](https://xomdata.com/practice/medium-case-160) · Medium · 2026-09-18
 - [medium-case-110](https://xomdata.com/practice/medium-case-110) · Medium · 2026-09-17
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [hard-conditional-001](https://xomdata.com/practice/hard-conditional-001) · Hard · 2026-09-16
 - [hard-anti-001](https://xomdata.com/practice/hard-anti-001) · Hard · 2026-09-15
 - [easy-limit-004](https://xomdata.com/practice/easy-limit-004) · Easy · 2026-09-15
-- [easy-limit-001](https://xomdata.com/practice/easy-limit-001) · Easy · 2026-09-15
 
-_Synced 78 solutions · last update 2026-09-18_
+_Synced 79 solutions · last update 2026-09-19_
 
 <!-- xomdata:stats:end -->
 
