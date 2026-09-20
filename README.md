@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**80** problems solved on [Xom Data](https://xomdata.com/practice).
+**81** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 30 | 0 | 0 | 0 | 30 |
-| SQL | 14 | 17 | 19 | 0 | 50 |
+| SQL | 14 | 17 | 20 | 0 | 51 |
 
 **Recently solved**
 
+- [hard-fifo-001](https://xomdata.com/practice/hard-fifo-001) · Hard · 2026-09-20
 - [medium-casewhen-047](https://xomdata.com/practice/medium-casewhen-047) · Medium · 2026-09-20
 - [medium-join-076](https://xomdata.com/practice/medium-join-076) · Medium · 2026-09-19
 - [medium-having-128](https://xomdata.com/practice/medium-having-128) · Medium · 2026-09-18
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [hard-churn-001](https://xomdata.com/practice/hard-churn-001) · Hard · 2026-09-16
 - [hard-funnel-001](https://xomdata.com/practice/hard-funnel-001) · Hard · 2026-09-16
 - [hard-conditional-001](https://xomdata.com/practice/hard-conditional-001) · Hard · 2026-09-16
-- [hard-anti-001](https://xomdata.com/practice/hard-anti-001) · Hard · 2026-09-15
 
-_Synced 80 solutions · last update 2026-09-20_
+_Synced 81 solutions · last update 2026-09-20_
 
 <!-- xomdata:stats:end -->
 
