@@ -83,5 +83,6 @@
   "practice/sql/medium/medium-groupby-097/solution.sql": "d07b95709a03e2e0f00d75003fb2ee372e659295acbc40fcd1c3ca3b5469484c",
   "practice/sql/hard/medium-classify-002/solution.sql": "b9fe450d4ab343d63b3aa43aa5529683cedf66a049d649dc924b15b7008efe9d",
   "practice/sql/medium/medium-groupby-080/solution.sql": "1cb454728b7193ca59047a666bc03246b3a083601270f05288f7c9e57062b459",
-  "practice/sql/nightmare/expert-final-multi-007/solution.sql": "7e0907a47d8d100fa16f177fd7cd10c7ac853e251823902efd42d92d08d5651c"
+  "practice/sql/nightmare/expert-final-multi-007/solution.sql": "7e0907a47d8d100fa16f177fd7cd10c7ac853e251823902efd42d92d08d5651c",
+  "practice/sql/nightmare/expert-final-subq-003/solution.sql": "7084c492e1e38833111589d89bd1b4344d5eb178d15c72de4b0a4c819657e0bb"
 }
