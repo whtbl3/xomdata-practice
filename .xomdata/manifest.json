@@ -85,5 +85,6 @@
   "practice/sql/medium/medium-groupby-080/solution.sql": "1cb454728b7193ca59047a666bc03246b3a083601270f05288f7c9e57062b459",
   "practice/sql/nightmare/expert-final-multi-007/solution.sql": "7e0907a47d8d100fa16f177fd7cd10c7ac853e251823902efd42d92d08d5651c",
   "practice/sql/nightmare/expert-final-subq-003/solution.sql": "7084c492e1e38833111589d89bd1b4344d5eb178d15c72de4b0a4c819657e0bb",
-  "practice/sql/medium/medium-having-162/solution.sql": "0fa7d566a3c7d6851eecf7b02bb26ac4ff107aedb9b42601f259a0633490e67c"
+  "practice/sql/medium/medium-having-162/solution.sql": "0fa7d566a3c7d6851eecf7b02bb26ac4ff107aedb9b42601f259a0633490e67c",
+  "practice/sql/hard/hard-winback-002/solution.sql": "6f97eb01708aca0c8af5630e4d8d5b4008b6c369a985c69acfe35e75d50ddb6f"
 }
