@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**90** problems solved on [Xom Data](https://xomdata.com/practice).
+**91** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 30 | 0 | 0 | 0 | 30 |
-| SQL | 14 | 20 | 24 | 2 | 60 |
+| SQL | 14 | 21 | 24 | 2 | 61 |
 
 **Recently solved**
 
+- [medium-having-187](https://xomdata.com/practice/medium-having-187) · Medium · 2026-09-23
 - [hard-streak-002](https://xomdata.com/practice/hard-streak-002) · Hard · 2026-09-23
 - [hard-gap-003](https://xomdata.com/practice/hard-gap-003) · Hard · 2026-09-23
 - [hard-winback-002](https://xomdata.com/practice/hard-winback-002) · Hard · 2026-09-22
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [medium-groupby-080](https://xomdata.com/practice/medium-groupby-080) · Medium · 2026-09-21
 - [medium-classify-002](https://xomdata.com/practice/medium-classify-002) · Hard · 2026-09-20
 - [medium-groupby-097](https://xomdata.com/practice/medium-groupby-097) · Medium · 2026-09-20
-- [hard-fifo-001](https://xomdata.com/practice/hard-fifo-001) · Hard · 2026-09-20
 
-_Synced 90 solutions · last update 2026-09-23_
+_Synced 91 solutions · last update 2026-09-23_
 
 <!-- xomdata:stats:end -->
 
