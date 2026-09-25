@@ -94,5 +94,9 @@
   "practice/sql/medium/medium-join-014/solution.sql": "9842d53c025044814330738660657ef000123c42948c1412757d3f5504174c05",
   "practice/sql/medium/medium-subquery-028/solution.sql": "de0057b4a765a3fc6751a39717e678dab312f2620f126e032b0e57a080e11389",
   "practice/sql/medium/medium-join-141/solution.sql": "b098fd5aa2045b1631c341b836e7d927f45f4ad2a7905477d3466352a46c3d88",
-  "practice/sql/medium/medium-join-155/solution.sql": "d21c21610b54810e279e5362daac1584941fa01d5565c79de7048804d5e8a467"
+  "practice/sql/medium/medium-join-155/solution.sql": "d21c21610b54810e279e5362daac1584941fa01d5565c79de7048804d5e8a467",
+  "practice/sql/hard/hard-monetary-001/solution.sql": "fb132b712317bd90fd7ba0a38182bb545925dde141c2bed5c0b4ac1504c6029c",
+  "practice/sql/hard/hard-cohort-003/solution.sql": "da08fd649e9110e95508e4a7c99a3104784c0dddb30cc3037d6da528f5e70629",
+  "practice/sql/medium/medium-leftjoin-096/solution.sql": "6f74331bdf411884401732b70f7afd75651031eb1efed96559f2fa55db0e8e02",
+  "practice/sql/medium/medium-subquery-198/solution.sql": "a29be6fc5dae4aeefe7a9edd3674773016a85ca04bc172116f763f17b57bb896"
 }
