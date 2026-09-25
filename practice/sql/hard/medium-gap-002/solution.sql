@@ -1,4 +1,4 @@
--- Xom Data · Bao lâu thì khách quyết định quay lại lần hai
+-- Xom Data · How long before a customer decides to come back a second time
 -- Problem: https://xomdata.com/practice/medium-gap-002
 -- Solved: 2026-09-25
 
