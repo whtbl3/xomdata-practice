@@ -99,5 +99,6 @@
   "practice/sql/hard/hard-cohort-003/solution.sql": "da08fd649e9110e95508e4a7c99a3104784c0dddb30cc3037d6da528f5e70629",
   "practice/sql/medium/medium-leftjoin-096/solution.sql": "6f74331bdf411884401732b70f7afd75651031eb1efed96559f2fa55db0e8e02",
   "practice/sql/medium/medium-subquery-198/solution.sql": "a29be6fc5dae4aeefe7a9edd3674773016a85ca04bc172116f763f17b57bb896",
-  "practice/sql/hard/medium-gap-002/solution.sql": "29b4809ad7caf871119b02ffe4dd3db28ebe521c20739c5f736af12ad978fa77"
+  "practice/sql/hard/medium-gap-002/solution.sql": "29b4809ad7caf871119b02ffe4dd3db28ebe521c20739c5f736af12ad978fa77",
+  "practice/sql/medium/medium-agg-147/solution.sql": "c733f71819170d16080bfe8ab1fbf011777095bf7fc13d6ce5850c001f27ee8a"
 }
