@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**102** problems solved on [Xom Data](https://xomdata.com/practice).
+**103** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 30 | 0 | 0 | 0 | 30 |
-| SQL | 14 | 29 | 27 | 2 | 72 |
+| SQL | 14 | 29 | 28 | 2 | 73 |
 
 **Recently solved**
 
+- [hard-streak-001](https://xomdata.com/practice/hard-streak-001) · Hard · 2026-09-27
 - [medium-agg-147](https://xomdata.com/practice/medium-agg-147) · Medium · 2026-09-26
 - [medium-gap-002](https://xomdata.com/practice/medium-gap-002) · Hard · 2026-09-25
 - [medium-subquery-198](https://xomdata.com/practice/medium-subquery-198) · Medium · 2026-09-25
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [medium-join-155](https://xomdata.com/practice/medium-join-155) · Medium · 2026-09-23
 - [medium-join-141](https://xomdata.com/practice/medium-join-141) · Medium · 2026-09-23
 - [medium-subquery-028](https://xomdata.com/practice/medium-subquery-028) · Medium · 2026-09-23
-- [medium-join-014](https://xomdata.com/practice/medium-join-014) · Medium · 2026-09-23
 
-_Synced 102 solutions · last update 2026-09-26_
+_Synced 103 solutions · last update 2026-09-27_
 
 <!-- xomdata:stats:end -->
 
