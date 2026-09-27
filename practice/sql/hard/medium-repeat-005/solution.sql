@@ -1,4 +1,4 @@
--- Xom Data · Kênh nào tạo ra khách trung thành
+-- Xom Data · Which channel produces loyal customers
 -- Problem: https://xomdata.com/practice/medium-repeat-005
 -- Solved: 2026-09-27
 
