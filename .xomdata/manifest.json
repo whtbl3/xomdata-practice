@@ -104,5 +104,6 @@
   "practice/sql/hard/hard-streak-001/solution.sql": "078ea84b716e31fa79496514daecc013a6d1cc236c62ddabb4dd6d39789567e2",
   "practice/sql/hard/medium-repeat-005/solution.sql": "89e5e4818e16efa435fdabb839de898e247cd82ced7f8ee15fb29cdf98ea006b",
   "practice/sql/hard/hard-mrr-001/solution.sql": "ac3526c3a6c10b5c16f7fa5ab0713bab46d2dadc1c892653f767201c3384003a",
-  "practice/sql/medium/medium-join-186/solution.sql": "314e3d22fa576443d19abd70b96c57ffa2f4a71667bcb91e85d794446638003a"
+  "practice/sql/medium/medium-join-186/solution.sql": "314e3d22fa576443d19abd70b96c57ffa2f4a71667bcb91e85d794446638003a",
+  "practice/sql/medium/medium-monetary-004/solution.sql": "c9ec1928913f4edaac635aba9c7794775991b3b66e1823f021928e538b713361"
 }
