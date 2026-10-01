@@ -4,15 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**111** problems solved on [Xom Data](https://xomdata.com/practice).
+**112** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 30 | 0 | 0 | 0 | 30 |
-| SQL | 14 | 34 | 31 | 2 | 81 |
+| SQL | 14 | 35 | 31 | 2 | 82 |
 
 **Recently solved**
 
+- [medium-recency-002](https://xomdata.com/practice/medium-recency-002) · Medium · 2026-10-01
 - [medium-join-126](https://xomdata.com/practice/medium-join-126) · Medium · 2026-09-30
 - [medium-winjoin-003](https://xomdata.com/practice/medium-winjoin-003) · Medium · 2026-09-29
 - [hard-rfm-003](https://xomdata.com/practice/hard-rfm-003) · Hard · 2026-09-29
@@ -22,9 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [hard-mrr-001](https://xomdata.com/practice/hard-mrr-001) · Hard · 2026-09-28
 - [medium-repeat-005](https://xomdata.com/practice/medium-repeat-005) · Hard · 2026-09-27
 - [hard-streak-001](https://xomdata.com/practice/hard-streak-001) · Hard · 2026-09-27
-- [medium-agg-147](https://xomdata.com/practice/medium-agg-147) · Medium · 2026-09-26
 
-_Synced 111 solutions · last update 2026-09-30_
+_Synced 112 solutions · last update 2026-10-01_
 
 <!-- xomdata:stats:end -->
 

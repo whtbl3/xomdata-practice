@@ -109,5 +109,6 @@
   "practice/sql/medium/medium-agg-137/solution.sql": "35de6d10305aa5cd1acda7b607672fd72a040fdf3f81979bb381ae18ab842edc",
   "practice/sql/hard/hard-rfm-003/solution.sql": "550beaa86e29872da54693d0c54238f0da61ac859d2a6fe884ce0d3781a5bf30",
   "practice/sql/medium/medium-winjoin-003/solution.sql": "86200465ddd68300b7699183e1c3d04797b5b723474e37395507059ee729cc3c",
-  "practice/sql/medium/medium-join-126/solution.sql": "83781e7ccb350cb40f5631f1978924724a1466bc44d1aa426f55cfefdf5cbe5a"
+  "practice/sql/medium/medium-join-126/solution.sql": "83781e7ccb350cb40f5631f1978924724a1466bc44d1aa426f55cfefdf5cbe5a",
+  "practice/sql/medium/medium-recency-002/solution.sql": "44219725f6b89ee6788426e3aa842f93131d30c43d9ef0e334d9be7591ce477b"
 }
