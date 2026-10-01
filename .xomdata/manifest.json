@@ -111,5 +111,6 @@
   "practice/sql/medium/medium-winjoin-003/solution.sql": "86200465ddd68300b7699183e1c3d04797b5b723474e37395507059ee729cc3c",
   "practice/sql/medium/medium-join-126/solution.sql": "83781e7ccb350cb40f5631f1978924724a1466bc44d1aa426f55cfefdf5cbe5a",
   "practice/sql/medium/medium-recency-002/solution.sql": "44219725f6b89ee6788426e3aa842f93131d30c43d9ef0e334d9be7591ce477b",
-  "practice/sql/medium/medium-recency-001/solution.sql": "0f3f1a1ea42c960a30f6fdb2d75e586f0adbfb89c272b1fdb9644e3129ac4dc5"
+  "practice/sql/medium/medium-recency-001/solution.sql": "0f3f1a1ea42c960a30f6fdb2d75e586f0adbfb89c272b1fdb9644e3129ac4dc5",
+  "practice/sql/medium/medium-winjoin-005/solution.sql": "2d079a539ba98d43212c937cae56676c14f708c2a5e8612c1dc700c4b189e214"
 }
