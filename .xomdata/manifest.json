@@ -116,5 +116,7 @@
   "practice/python/easy/py-grade-letter/solution.py": "8af50f9395852f761292d4c9bd5851d1ba1836b15b0fb0377bd99d1b27f60717",
   "practice/sql/easy/easy-leftjoin-002/solution.sql": "ce501fbf4de0cc55bc5df7fbdc2ba5ce84fe8318dfd2ac10d14c8dd9cdcf2206",
   "practice/sql/medium/medium-topn-001/solution.sql": "295dd999bae289ef438a9ab13ce201ee8d4ec58aef9c033d95302c1d616018fa",
-  "practice/sql/medium/medium-topn-002/solution.sql": "d3caff9965b1aba76b92d96f1b09359e311466384b4fe4a2f1426a26fb5e6fd6"
+  "practice/sql/medium/medium-topn-002/solution.sql": "d3caff9965b1aba76b92d96f1b09359e311466384b4fe4a2f1426a26fb5e6fd6",
+  "practice/sql/medium/medium-recency-004/solution.sql": "3cfdb7f1ce94354fddde91645b2ebd165d242d5d6017dcde4588d23e41b71d62",
+  "practice/sql/medium/medium-firstlast-003/solution.sql": "95d707eedd082dc4900425571eecba1330ad13b70e6ebca8026653151c8c66b8"
 }

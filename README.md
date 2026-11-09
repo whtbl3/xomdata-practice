@@ -4,15 +4,17 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**118** problems solved on [Xom Data](https://xomdata.com/practice).
+**120** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 31 | 0 | 0 | 0 | 31 |
-| SQL | 15 | 39 | 31 | 2 | 87 |
+| SQL | 15 | 41 | 31 | 2 | 89 |
 
 **Recently solved**
 
+- [medium-firstlast-003](https://xomdata.com/practice/medium-firstlast-003) · Medium · 2026-11-09
+- [medium-recency-004](https://xomdata.com/practice/medium-recency-004) · Medium · 2026-11-09
 - [medium-topn-002](https://xomdata.com/practice/medium-topn-002) · Medium · 2026-10-21
 - [medium-topn-001](https://xomdata.com/practice/medium-topn-001) · Medium · 2026-10-21
 - [easy-leftjoin-002](https://xomdata.com/practice/easy-leftjoin-002) · Easy · 2026-10-02
@@ -21,10 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [medium-recency-001](https://xomdata.com/practice/medium-recency-001) · Medium · 2026-10-01
 - [medium-recency-002](https://xomdata.com/practice/medium-recency-002) · Medium · 2026-10-01
 - [medium-join-126](https://xomdata.com/practice/medium-join-126) · Medium · 2026-09-30
-- [medium-winjoin-003](https://xomdata.com/practice/medium-winjoin-003) · Medium · 2026-09-29
-- [hard-rfm-003](https://xomdata.com/practice/hard-rfm-003) · Hard · 2026-09-29
 
-_Synced 118 solutions · last update 2026-10-21_
+_Synced 120 solutions · last update 2026-11-09_
 
 <!-- xomdata:stats:end -->
 
